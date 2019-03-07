@@ -1,6 +1,6 @@
 # Kickstart Dataset Analysis and Visualization
 
-## What questions did we ask about our data?
+## What questions did I ask about this data?
 1. What are the characteristics of the campaigns that succeeded? Failed? Were cancelled?
 2. Does category or main category have anything to do with the state of a campaign?
 3. Maybe currency has something to do with success, cancellation, failure or any other state? Perhaps British campaigns are more/less successful that American or Australian, etc.
