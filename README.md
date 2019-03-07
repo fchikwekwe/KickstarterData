@@ -11,7 +11,7 @@
 
 - Most of the column names are self-explanatory when looking at them in the context of the dataframe:
   - ID, name, category, main_category, currency, deadline, goal, launched, pledged, state, backers, country
-- Except for the following (from [Kaggle](From https://www.kaggle.com/kemical/kickstarter-projects)):
+- Except for the following (from [Kaggle](From https://www.kaggle.com/kemical/kickstarter-projects) ):
   - **usd_pledged:** conversion to US dollars of the pledged column (conversion done by kickstarter).
   - **usd pledged real:** conversion to US dollars of the pledged column (conversion from Fixer.io API).
   - **usd goal real:** conversion to US dollars of the goal column (conversion from Fixer.io API).
